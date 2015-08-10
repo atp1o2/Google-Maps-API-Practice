@@ -1,4 +1,7 @@
 get '/' do
-  api = Github::Client.new
-  erb :index
+  erb :show
+end
+
+get '/map' do
+  erb :show
 end

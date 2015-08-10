@@ -1,0 +1,13 @@
+Google Maps API - Quick APP
+
+User can input an address -> Drops pin on location
+
+
+
+Notes
+API KEY
+AIzaSyBJxGnSC8mxmDHI8nG8kuKCYX_0LhLlOhU
+
+
+  <!-- Google maps api  -->
+  <script id="map" type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJxGnSC8mxmDHI8nG8kuKCYX_0LhLlOhU"> </script>
